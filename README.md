@@ -4,19 +4,6 @@ A production-ready, full-stack e-commerce application built with Next.js, Node.j
 
 ---
 
-## 🖥️ Live Demo
-
-| Service | URL |
-|---|---|
-| Frontend (Vercel) | `https://nexastore.vercel.app` |
-| Backend API (Render) | `https://nexastore-api.onrender.com` |
-
-**Demo Credentials:**
-- 👤 User: `user@nexastore.com` / `User@123456`
-- 🔐 Admin: `admin@nexastore.com` / `Admin@123456`
-
----
-
 ## 🧱 Tech Stack
 
 ### Frontend
@@ -166,8 +153,8 @@ nexastore/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/nexastore.git
-cd nexastore
+git clone https://github.com/m7md-ib/Nexastore.git
+cd Nexastore
 ```
 
 ### 2. Backend Setup
